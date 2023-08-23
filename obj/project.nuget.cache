@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrFHAkNf0O1qsaimkCd+ZB0vEataZ9+3vltKg22WDajQ7fAtUzb5K9IxNytlDx/ziGlAbwZPzuwbhc4CRUQK4w==",
+  "dgSpecHash": "OwpE26WnB/ytw5YtGfTHwTwbOhz4+uKK4DOjk7b7M5iNxtrNszX3/IGrxtOEaeVG4QUeXZ2Qjq6IcrGV8S78aQ==",
   "success": true,
-  "projectFilePath": "D:\\projects\\GameStoreClient\\Gamestore.client.csproj",
+  "projectFilePath": "d:\\projects\\GameStoreClient\\Gamestore.client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harib\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\harib\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
