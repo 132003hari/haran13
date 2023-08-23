@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\GameStoreClient\\Gamestore.client.csproj": {}
+    "D:\\projects\\GameStoreClient\\Jenkins-build.csproj": {}
   },
   "projects": {
-    "D:\\projects\\GameStoreClient\\Gamestore.client.csproj": {
+    "D:\\projects\\GameStoreClient\\Jenkins-build.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\GameStoreClient\\Gamestore.client.csproj",
-        "projectName": "Gamestore.client",
-        "projectPath": "D:\\projects\\GameStoreClient\\Gamestore.client.csproj",
+        "projectUniqueName": "D:\\projects\\GameStoreClient\\Jenkins-build.csproj",
+        "projectName": "Jenkins-build",
+        "projectPath": "D:\\projects\\GameStoreClient\\Jenkins-build.csproj",
         "packagesPath": "C:\\Users\\harib\\.nuget\\packages\\",
         "outputPath": "D:\\projects\\GameStoreClient\\obj\\",
         "projectStyle": "PackageReference",
@@ -27,6 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,17 +45,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.9, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -66,23 +56,15 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.9, 7.0.9]"
-            }
-          ],
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "browser-wasm": {
-          "#import": []
         }
       }
     }

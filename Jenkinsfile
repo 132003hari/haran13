@@ -3,12 +3,12 @@ pipeline {
     stages {
         stage('Build') {
             tools {
-                dotnetsdk 'dotnet-sdk-6.0'
+                dotnetsdk 'dotnet-sdk-7.0'
             }
             steps {
                 echo 'Building..'
                 sh '''
-                dotnet build
+                dotnet build Jenkins-build.sln
                 '''
             }
         }

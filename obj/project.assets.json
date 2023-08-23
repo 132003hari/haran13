@@ -1807,11 +1807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\Gamestore.client\\Gamestore.client.csproj",
+      "projectUniqueName": "D:\\projects\\GameStoreClient\\Gamestore.client.csproj",
       "projectName": "Gamestore.client",
-      "projectPath": "D:\\projects\\Gamestore.client\\Gamestore.client.csproj",
+      "projectPath": "D:\\projects\\GameStoreClient\\Gamestore.client.csproj",
       "packagesPath": "C:\\Users\\harib\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\Gamestore.client\\obj\\",
+      "outputPath": "D:\\projects\\GameStoreClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

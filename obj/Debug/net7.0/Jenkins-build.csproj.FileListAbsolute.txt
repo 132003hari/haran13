@@ -1,0 +1,6 @@
+D:\projects\GameStoreClient\obj\Debug\net7.0\Jenkins-build.csproj.AssemblyReference.cache
+D:\projects\GameStoreClient\obj\Debug\net7.0\Jenkins-build.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GameStoreClient\obj\Debug\net7.0\Jenkins-build.AssemblyInfoInputs.cache
+D:\projects\GameStoreClient\obj\Debug\net7.0\Jenkins-build.AssemblyInfo.cs
+D:\projects\GameStoreClient\obj\Debug\net7.0\Jenkins-build.csproj.CoreCompileInputs.cache
+D:\projects\GameStoreClient\obj\Debug\net7.0\Jenkins-build.MvcApplicationPartsAssemblyInfo.cache
