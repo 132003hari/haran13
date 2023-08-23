@@ -8,7 +8,7 @@ pipeline {
             steps {
                 echo 'Building..'
                 sh '''
-                dotnet build Jenkins-build.sln
+                dotnet build Gamestore.client.sln
                 '''
             }
         }
