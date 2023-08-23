@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Gamestore.client
 build_property.RootNamespace = Gamestore.client
-build_property.ProjectDir = d:\projects\GameStoreClient\
+build_property.ProjectDir = D:\projects\GameStoreClient\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\projects\GameStoreClient
+build_property.MSBuildProjectDirectory = D:\projects\GameStoreClient
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/projects/GameStoreClient/App.razor]
+[D:/projects/GameStoreClient/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/GameStoreClient/Pages/Deletegame.razor]
+[D:/projects/GameStoreClient/Pages/Deletegame.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlZ2FtZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/GameStoreClient/Pages/Editgame.razor]
+[D:/projects/GameStoreClient/Pages/Editgame.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGdhbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/GameStoreClient/Pages/Index.razor]
+[D:/projects/GameStoreClient/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/GameStoreClient/_Imports.razor]
+[D:/projects/GameStoreClient/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/GameStoreClient/Shared/MainLayout.razor]
+[D:/projects/GameStoreClient/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-l0o772rghw

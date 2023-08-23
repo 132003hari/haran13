@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\projects\\GameStoreClient\\Gamestore.client.csproj": {}
+    "D:\\projects\\GameStoreClient\\Gamestore.client.csproj": {}
   },
   "projects": {
-    "d:\\projects\\GameStoreClient\\Gamestore.client.csproj": {
+    "D:\\projects\\GameStoreClient\\Gamestore.client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projects\\GameStoreClient\\Gamestore.client.csproj",
+        "projectUniqueName": "D:\\projects\\GameStoreClient\\Gamestore.client.csproj",
         "projectName": "Gamestore.client",
-        "projectPath": "d:\\projects\\GameStoreClient\\Gamestore.client.csproj",
+        "projectPath": "D:\\projects\\GameStoreClient\\Gamestore.client.csproj",
         "packagesPath": "C:\\Users\\harib\\.nuget\\packages\\",
-        "outputPath": "d:\\projects\\GameStoreClient\\obj\\",
+        "outputPath": "D:\\projects\\GameStoreClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
